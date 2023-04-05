@@ -2,11 +2,12 @@ Hello! Welcome to the readme for a Python basics repository on Github.
 
 This repository contains Python scripts that cover the basics of programming in Python. The scripts are organized into different directories, each covering a different topic. The topics covered in this repository include:
 
-Variables and data types
-Control structures (if/else statements, loops)
-Functions
-Lists, tuples, and dictionaries
-Object-oriented programming (classes and objects)
+-->Variables and data types
+-->Control structures (if/else statements, loops)
+-->Functions
+-->Lists, tuples, and dictionaries
+-->Object-oriented programming (classes and objects)
+
 To use this repository, you can clone it to your local machine using the command:
 
 ![Screenshot 2023-04-05 201449](https://user-images.githubusercontent.com/39375463/230117183-7190bf9f-400b-4cbf-9389-14234584b299.png)
